@@ -10,7 +10,7 @@
 > finger git apache2 ntp libapache2-mod-wsgi python-setuptools
 > sqlalchemy flask postgresql oauth2 Glances
 
- **1. Generate public Key for udacity_key.rsa**
+ **1. Generate public Key for udacity (grader_key)**
     - cd  ~/.ssh
     - ssh-keygen -t rsa
     - cat ~/.ssh/grader_key.pub
