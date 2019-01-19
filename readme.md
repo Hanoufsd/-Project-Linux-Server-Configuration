@@ -87,8 +87,6 @@
 **10. Restart Apache to launch the program**
     - sudo service apache2 restart
 
-> **Note:** The **Publish now** button is disabled if your file has not been published yet.
-
 
 # Useful resources
  1. [link1](https://libraries.io/github/golgtwins/Udacity-P7-Linux-Server-Configuration)
